@@ -1,2 +1,2 @@
-# learnings
+# Seek, Learn, Use ! - My journey of learning useful things.
 Useful stuff which I have learnt...
