@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>seek-learn-use-my-journey-of-learning-useful-things</title>
-    <link href="https://github.io/therealmccoy/seek-learn-use/feed.xml" rel="self" />
-    <link href="https://github.io/therealmccoy/seek-learn-use" />
-    <updated>2018-03-26T09:32:23+05:30</updated>
+    <link href="https://therealmccoy.github.io/seek-learn-use/feed.xml" rel="self" />
+    <link href="https://therealmccoy.github.io/seek-learn-use" />
+    <updated>2018-03-26T09:37:54+05:30</updated>
     <author>
         <name>abhishek rai</name>
     </author>
-    <id>https://github.io/therealmccoy/seek-learn-use</id>
+    <id>https://therealmccoy.github.io/seek-learn-use</id>
 
     <entry>
         <title>About this site</title>
         <author>
             <name>abhishek rai</name>
         </author>
-        <link href="https://github.io/therealmccoy/seek-learn-use/about-this-site.html"/>
-        <id>https://github.io/therealmccoy/seek-learn-use/about-this-site.html</id>
+        <link href="https://therealmccoy.github.io/seek-learn-use/about-this-site.html"/>
+        <id>https://therealmccoy.github.io/seek-learn-use/about-this-site.html</id>
 
         <updated>2018-03-26T09:26:32+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.io/therealmccoy/seek-learn-use/media/posts/1/open-book-library-education-read-159621.jpeg" alt="" />
-                <p><img class="post__image--wide" src="file://https://github.io/therealmccoy/seek-learn-use/media/posts/1//open-book-library-education-read-159621.jpeg" alt="abhishek rai's learnings" width="1280" height="961"></p>
+                    <img src="https://therealmccoy.github.io/seek-learn-use/media/posts/1/open-book-library-education-read-159621.jpeg" alt="" />
+                <p><img class="post__image--wide" src="file://https://therealmccoy.github.io/seek-learn-use/media/posts/1//open-book-library-education-read-159621.jpeg" alt="abhishek rai's learnings" width="1280" height="961"></p>
 <p>What you learn; is a useful information, knowledge or skill.</p>
 <p>During the course of my day to day activities, I encounter some stuff, which is a new learning. This site details all these stuff.</p>
 <p>A couple of reasons for doing that:</p>
