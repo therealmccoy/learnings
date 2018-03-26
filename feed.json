@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "seek-learn-use-my-journey-of-learning-useful-things",
+    "description": "",
+    "home_page_url": "https://github.io/therealmccoy/seek-learn-use",
+    "feed_url": "https://github.io/therealmccoy/seek-learn-use/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "abhishek rai"
+    },
+    "items": [
+        {
+            "id": "https://github.io/therealmccoy/seek-learn-use/about-this-site.html",
+            "url": "https://github.io/therealmccoy/seek-learn-use/about-this-site.html",
+            "title": "About this site",
+            "content_html": "<p><img class=\"post__image--wide\" src=\"file://https://github.io/therealmccoy/seek-learn-use/media/posts/1//open-book-library-education-read-159621.jpeg\" alt=\"abhishek rai's learnings\" width=\"1280\" height=\"961\"></p>\n<p>What you learn; is a useful information, knowledge or skill.</p>\n<p>During the course of my day to day activities, I encounter some stuff, which is a new learning. This site details all these stuff.</p>\n<p>A couple of reasons for doing that:</p>\n<p class=\"align-left\">a.) That I have a list and could gauge my progress b.) I could reference the list and revise my knowledge on the subject c.) I could reference the list and then update my knowledge on those subjects.</p>\n<p>Please be rest assured that this would cover a wide range of topics and subjects and may vary from season to season, depending upon what I am doing.</p>\n<p>A couple of months back, it could have been a lot about fishing, when I was apprenticing.</p>\n<p>I wish I could give you a list of topics, but you could find out from the tags itself.</p>\n<p>Please feel free to comment and reach out to me, if you have any query or comments.</p>\n<p> </p>",
+            "image": "https://github.io/therealmccoy/seek-learn-use/media/posts/1/open-book-library-education-read-159621.jpeg",
+            "author": {
+                "name": "abhishek rai"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-03-26T09:14:27+05:30",
+            "date_modified": "2018-03-26T09:26:32+05:30"
+        }
+    ]
+}
