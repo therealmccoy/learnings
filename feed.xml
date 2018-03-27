@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>slu-seek-learn-use-my-journey-of-learning-useful-things</title>
+    <title>slu-seek-learn-use</title>
     <link href="https://therealmccoy.github.io/seek-learn-use/feed.xml" rel="self" />
     <link href="https://therealmccoy.github.io/seek-learn-use" />
-    <updated>2018-03-27T04:25:57+05:30</updated>
+    <updated>2018-03-28T04:04:22+05:30</updated>
     <author>
         <name>abhishek rai</name>
     </author>
@@ -19,13 +19,12 @@
             <category term="wordpressdevelopment"/>
             <category term="wordpress"/>
 
-        <updated>2018-03-26T12:40:08+05:30</updated>
+        <updated>2018-03-27T08:49:49+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://therealmccoy.github.io/seek-learn-use/media/posts/2/pexels-photo-261662.jpeg" alt="" />
-                <p><img class="post__image--wide" src="https://therealmccoy.github.io/seek-learn-use/media/posts/2/pexels-photo-261662.jpeg" alt="Wordpress site repair and maintenance" width="640" height="426"></p>
-<p>A few days back while working on a <a href="https://wordpress.org/" title="Wordpress Org">Wordpress</a> site, I had to integrate a <a href="https://elasticemail.com/integrations/elastic-email-subscribe-form/" title="Elastic Email Wordpress Widget Link">widget</a> on a single page.</p>
+                <p>A few days back while working on a <a href="https://wordpress.org/" title="Wordpress Org">Wordpress</a> site, I had to integrate a <a href="https://elasticemail.com/integrations/elastic-email-subscribe-form/" title="Elastic Email Wordpress Widget Link">widget</a> on a single page.</p>
 <p>I know only a couple of tits and bots of the current Wordpress platform since there are so many plugins ow for each job and every developer has her own favourites one. So, if you are working on a repair&amp;maintenance job of an existing website, the first and biggest hurdle is to orient yourself with the way the site has been built, and the plugins which has been used.</p>
 <p>I did some queries on search engines and found out that one way to incorporate a widget on a single page, is through use of <a href="https://codex.wordpress.org/shortcode" title="Wordpress Shortcodes">shortcodes</a>.</p>
 <p>Well that's good, but then how to generate a shortcode for the widget which I had to install?</p>
@@ -46,13 +45,12 @@
         <link href="https://therealmccoy.github.io/seek-learn-use/about-this-site.html"/>
         <id>https://therealmccoy.github.io/seek-learn-use/about-this-site.html</id>
 
-        <updated>2018-03-26T09:26:32+05:30</updated>
+        <updated>2018-03-27T08:49:35+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://therealmccoy.github.io/seek-learn-use/media/posts/1/open-book-library-education-read-159621.jpeg" alt="" />
-                <p><img class="post__image--wide" src="file://https://therealmccoy.github.io/seek-learn-use/media/posts/1//open-book-library-education-read-159621.jpeg" alt="abhishek rai's learnings" width="1280" height="961"></p>
-<p>What you learn; is a useful information, knowledge or skill.</p>
+                <p><img class="post__image--wide" src="file://https://therealmccoy.github.io/seek-learn-use/media/posts/1//open-book-library-education-read-159621.jpeg" alt="abhishek rai's learnings" width="1280" height="961">What you learn; is a useful information, knowledge or skill.</p>
 <p>During the course of my day to day activities, I encounter some stuff, which is a new learning. This site details all these stuff.</p>
 <p>A couple of reasons for doing that:</p>
 <p class="align-left">a.) That I have a list and could gauge my progress b.) I could reference the list and revise my knowledge on the subject c.) I could reference the list and then update my knowledge on those subjects.</p>
