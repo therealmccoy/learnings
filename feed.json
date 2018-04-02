@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "slu-seek-learn-use",
+    "title": "s-l-u-seek-learn-use",
     "description": "",
     "home_page_url": "https://therealmccoy.github.io/seek-learn-use",
     "feed_url": "https://therealmccoy.github.io/seek-learn-use/feed.json",
@@ -9,6 +9,22 @@
         "name": "abhishek rai"
     },
     "items": [
+        {
+            "id": "https://therealmccoy.github.io/seek-learn-use/do-not-feed-that-monster-which-is-meant-to-enslave-you-and-kills-the-serednipity.html",
+            "url": "https://therealmccoy.github.io/seek-learn-use/do-not-feed-that-monster-which-is-meant-to-enslave-you-and-kills-the-serednipity.html",
+            "title": "Do not feed that monster, which is meant to enslave you and kills the serednipity...",
+            "content_html": "<p>There have been times when YouTube would offer me some new channels to subscribe as a suggestion, saying that this might interest me.</p>\n<p>Usually, I would react with either clicking on a video out of that channel, if I immediately find it interesting or, I would close the offering by clicking on the X, which is at the fag end and available usually on hover, I guess.</p>\n<p>Suddenly a couple of days back, this got me thinking, if I am telling YouTube that I do not like the particualr channel, I am also telling them my dislike. In return, I am telling them what I DONT LIKE; which in effect I am telling them, WHAT I MIGHT LIKE.</p>\n<p>And since then, I have not been clicking on that close (X) button on the new suggestions.</p>\n<p>It is annoying osme times to see the same atuff, every time you open the site, but it is still better than being slave of an algorithm,  and that too, myself feeding it in the first place.</p>\n<p>Why should I be seeing this world only through the means of an algorithm?</p>\n<p>Why should I let the most beautiful experience of being alive, the serendipity, be the casualty?</p>",
+            "image": "https://therealmccoy.github.io/seek-learn-use/media/posts/3/pexels-photo-54199.jpeg",
+            "author": {
+                "name": "abhishek rai"
+            },
+            "tags": [
+                   "YouTube",
+                   "Alogrithms"
+            ],
+            "date_published": "2018-04-02T11:10:47+05:30",
+            "date_modified": "2018-04-02T11:10:47+05:30"
+        },
         {
             "id": "https://therealmccoy.github.io/seek-learn-use/adding-widgets-in-a-single-page-on-a-wordpress-site.html",
             "url": "https://therealmccoy.github.io/seek-learn-use/adding-widgets-in-a-single-page-on-a-wordpress-site.html",

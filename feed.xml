@@ -1,14 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>slu-seek-learn-use</title>
+    <title>s-l-u-seek-learn-use</title>
     <link href="https://therealmccoy.github.io/seek-learn-use/feed.xml" rel="self" />
     <link href="https://therealmccoy.github.io/seek-learn-use" />
-    <updated>2018-03-29T11:21:31+05:30</updated>
+    <updated>2018-04-02T11:11:14+05:30</updated>
     <author>
         <name>abhishek rai</name>
     </author>
     <id>https://therealmccoy.github.io/seek-learn-use</id>
 
+    <entry>
+        <title>Do not feed that monster, which is meant to enslave you and kills the serednipity...</title>
+        <author>
+            <name>abhishek rai</name>
+        </author>
+        <link href="https://therealmccoy.github.io/seek-learn-use/do-not-feed-that-monster-which-is-meant-to-enslave-you-and-kills-the-serednipity.html"/>
+        <id>https://therealmccoy.github.io/seek-learn-use/do-not-feed-that-monster-which-is-meant-to-enslave-you-and-kills-the-serednipity.html</id>
+            <category term="YouTube"/>
+            <category term="Alogrithms"/>
+
+        <updated>2018-04-02T11:10:47+05:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://therealmccoy.github.io/seek-learn-use/media/posts/3/pexels-photo-54199.jpeg" alt="" />
+                <p>There have been times when YouTube would offer me some new channels to subscribe as a suggestion, saying that this might interest me.</p>
+<p>Usually, I would react with either clicking on a video out of that channel, if I immediately find it interesting or, I would close the offering by clicking on the X, which is at the fag end and available usually on hover, I guess.</p>
+<p>Suddenly a couple of days back, this got me thinking, if I am telling YouTube that I do not like the particualr channel, I am also telling them my dislike. In return, I am telling them what I DONT LIKE; which in effect I am telling them, WHAT I MIGHT LIKE.</p>
+<p>And since then, I have not been clicking on that close (X) button on the new suggestions.</p>
+<p>It is annoying osme times to see the same atuff, every time you open the site, but it is still better than being slave of an algorithm,  and that too, myself feeding it in the first place.</p>
+<p>Why should I be seeing this world only through the means of an algorithm?</p>
+<p>Why should I let the most beautiful experience of being alive, the serendipity, be the casualty?</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How to add widgets in a single page on a Wordpress site?</title>
         <author>
